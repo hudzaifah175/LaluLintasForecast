@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LaluLintasForecast</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="one">one</string>
+    <string name="two">two</string>
+    <string name="cara_mengunakan_aplikasi">Cara Menggunakan Aplikasi</string>
+    <string name="menambahkan_lokasi">Menambahkan Lokasi</string>
+    <string name="article_text">Article Text</string>
+    <string name="article_textFeatures">Article Text Featuers</string>
+    <string name="action_settings">Settings</string>
+    <string name="features">Fitur Aplikasi</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "767544904538",
+    "firebase_url": "https://lalulintasforecast.firebaseio.com",
+    "project_id": "lalulintasforecast",
+    "storage_bucket": "lalulintasforecast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767544904538:android:c1e633fe94d9197a",
+        "android_client_info": {
+          "package_name": "kr.co.ajou.lalulintasforecast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767544904538-qga54244gbld2nl3e821rc490597hd46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.ajou.lalulintasforecast",
+            "certificate_hash": "3d26f711f700be17ad856473951036b2820bf7c5"
+          }
+        },
+        {
+          "client_id": "767544904538-k1l1t5i567jm38glkrdfop5rdqd811im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXPZ0LJycdC9L_IbzALXmBvQ_e9RfMg48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767544904538-k1l1t5i567jm38glkrdfop5rdqd811im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
